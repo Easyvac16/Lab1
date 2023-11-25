@@ -1,0 +1,84 @@
+ul
+{
+    list-style-type: none;
+}
+.header-winter
+{
+    padding-left: 30px;
+    background-image: url(ssc.png) ;
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 20px auto;
+    margin-bottom: 10px;
+    font-size: 150%;
+}
+.header-summer
+{
+    background-image: url(ssc.png) ;
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 20px auto;
+    padding-left: 30px;
+    margin-bottom: 10px;
+    font-size: 150%;
+}
+.header-spring
+{
+    background-image: url(ssc.png) ;
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 20px auto;
+    padding-left: 30px;
+    margin-bottom: 10px;
+    font-size: 150%;
+}
+.header-autumn
+{
+    background-image: url(ssc.png) ;
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 20px auto;
+    padding-left: 30px;
+    margin-bottom: 10px;
+    font-size: 150%;
+}
+.custom-list-winter li
+{
+    background-image: url(https://cdn.icon-icons.com/icons2/3035/PNG/512/weather_snow_snowflake_winter_freeze_icon_189094.png) ;
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 20px auto;
+    padding-left: 30px;
+    margin-bottom: 10px;
+    font-size: 150%;
+}
+.custom-list-autumn li
+{
+    background-image: url(autumn_16.png) ;
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 20px auto;
+    padding-left: 30px;
+    margin-bottom: 10px;
+    font-size: 150%;
+}
+.custom-list-summer li
+{
+    background-image: url(summer_16.png) ;
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 20px auto;
+    padding-left: 30px;
+    margin-bottom: 10px;
+    font-size: 150%;
+}
+.custom-list-spring li
+{
+    background-image: url(spring_16.png) ;
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 20px auto;
+    padding-left: 30px;
+    margin-bottom: 10px;
+    font-size: 150%;
+}
